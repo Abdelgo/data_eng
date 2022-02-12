@@ -22,3 +22,6 @@ https://towardsdatascience.com/passing-the-google-cloud-professional-data-engine
 # Linux Academy
 https://github.com/linuxacademy  
 
+# SPARK examples
+https://github.com/apache/spark/blob/master/examples/src/main/python/ml/als_example.py
+
