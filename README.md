@@ -25,3 +25,5 @@ https://github.com/linuxacademy
 # SPARK examples
 https://github.com/apache/spark/blob/master/examples/src/main/python/ml/als_example.py
 
+## dataschool (OLTP/OLAP)
+https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
