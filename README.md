@@ -1,4 +1,6 @@
 # data_eng links
+## Awesome Data eng resources
+https://github.com/igorbarinov/awesome-data-engineering
 
 https://blog.insightdatascience.com/preparing-for-the-transition-to-data-engineering-bfb39d327316
 
@@ -15,15 +17,18 @@ https://github.com/linuxacademy/content-google-cloud-run-deep-dive
 ### Quicklabs
 https://www.qwiklabs.com  
 
-# Google Data engineering certification plan
+### Google Data engineering certification plan
 https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333  
 
 
-# Linux Academy
+### Linux Academy
 https://github.com/linuxacademy  
 
-# SPARK examples
+### SPARK examples
 https://github.com/apache/spark/blob/master/examples/src/main/python/ml/als_example.py
 
-## dataschool (OLTP/OLAP)
+### dataschool (OLTP/OLAP)
 https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
+
+### data viz
+https://www.gapminder.org
