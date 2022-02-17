@@ -32,3 +32,7 @@ https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
 
 ### data viz
 https://www.gapminder.org
+
+### AWS
+https://zacks.one/categories/aws-certificate/
+
